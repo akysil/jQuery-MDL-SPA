@@ -1,1 +1,2 @@
-jQuery MDL SPA
+$ npm install
+$ gulp
