@@ -3,7 +3,6 @@ app.handler(function() {
 
     // edit item
     $('#contacts').on('click', 'button.edit', function(event) {
-        console.log('edit clicked');
         var fileName = event.currentTarget.dataset.file;
         location.href = '/#add:' + fileName;
     });

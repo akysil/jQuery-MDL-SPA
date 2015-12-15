@@ -1,7 +1,7 @@
 {
-  "name": "softevol",
+  "name": "jQuery-MDL-SPA",
   "version": "1.0.0",
-  "description": "test job",
+  "description": "test",
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "async": "^1.5.0",
-    "browser-sync": "^2.10.0",
+    "browser-sync": "^2.10.1",
     "gulp": "^3.9.0",
     "gulp-autoprefixer": "^3.1.0",
     "gulp-clean": "^0.3.1",
